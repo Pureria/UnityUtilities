@@ -1,0 +1,3 @@
+repository "UnityUtilitiesProject/UnityUtilitiesProject@4174516@cloud"
+  path "/"
+    smartbranch "/main/TestBranch"

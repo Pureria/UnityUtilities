@@ -1,0 +1,16 @@
+{
+    "name": "DynamicComponentInspector",
+    "rootNamespace": "",
+    "references": [
+        "GUID:1e4b66573564dd04eaca18634a77d311"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
